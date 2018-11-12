@@ -1,2 +1,2 @@
 # Poker-Bot-Challenge
-To create a server that can handle inputs from bots from across the web.
+To manage a Poker game to have bots compete against one another.
